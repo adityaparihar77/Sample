@@ -97,15 +97,15 @@ export default function SalonLanding() {
               About Us
             </h2>
             <p className="text-lg text-[#666666] mb-12 leading-relaxed">
-              At Top Notch Salon, we blend style with precision. Whether you're
+              At Top Notch Salon, we blend style with precision. Whether you&rsquo;re
               refreshing your current look or going for something bold, our
-              expert stylists deliver results you'll love.
+              expert stylists deliver results you&rsquo;ll love.
             </p>
 
             <div className="bg-[#faf7f2] p-8 rounded-lg border-l-4 border-[#d4a276] shadow-md mb-8 transform transition-all duration-700 hover:shadow-lg">
               <p className="text-xl italic text-[#666666] mb-4">
-                "Sandra fixed me up great after my last stylist screwed up my
-                hair."
+                &ldquo;Sandra fixed me up great after my last stylist screwed up my
+                hair.&rdquo;
               </p>
               <p className="text-right text-[#d4a276] font-medium">
                 — Happy Customer
